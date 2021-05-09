@@ -11,3 +11,4 @@ SELECT * FROM test_table;
 
 ## NEXT TASK
 - create some cassandra node
+- connect to rails 
